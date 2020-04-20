@@ -1,1 +1,6 @@
 CMPT419/726Project
+
+we trained 4 models on the Stanford cars dataset - Random Forest (RF), 
+Support Vector Machine (SVM), 
+Multilayer Perceptron (MLP) and Convolution Neural Net (CNN) - 
+to identify the make and model of a car given its image. 
